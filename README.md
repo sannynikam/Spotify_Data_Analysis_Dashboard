@@ -1,6 +1,6 @@
 # Spotify_Data_Analysis_Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 This is my first data analysis dashboard, created using Microsoft Excel.
 The project focuses on analyzing Spotify dataset features such as track popularity, artist performance, audio features, and trends in music preferences.
