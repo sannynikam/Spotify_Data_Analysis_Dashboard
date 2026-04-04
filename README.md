@@ -1,4 +1,4 @@
-# Spotify_Data_Analysis_Dashboard
+# Spotify_Data_Analysis_Dashboard-Excel
 
 ## 📌 Project Overview
 
